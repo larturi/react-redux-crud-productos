@@ -1,7 +1,7 @@
-# CRUD React, Redux y REST Api
+# CRUD React, Redux y [json-server API](https://www.npmjs.com/package/json-server)
 
 
-## Run the fake [json-server](https://www.npmjs.com/package/json-server) API
+Run the fake [json-server API](https://www.npmjs.com/package/json-server)
 
 ```shell
 yarn install -g json-server
