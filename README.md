@@ -1,5 +1,16 @@
 # CRUD React, Redux y REST Api
 
+
+## Run the fake [json-server](https://www.npmjs.com/package/json-server) API
+
+```shell
+yarn install -g json-server
+```
+
+```shell
+json-server db.json -port 8000
+```
+
 ## 🚀 Quick start
 
 Instal depenences
